@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seanguerrero4343444
+- 👋 Hi, I’m @seanguerrero4343444.
 - 👀 I’m interested in shmara
 - 🌱 I’m currently learning AI-Product-Description 
 - 💞️ I’m looking to collaborate on Coding can change the world
