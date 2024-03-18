@@ -5,7 +5,6 @@
 - 📫 How to reach me seanguerrero4343444@gmail.com
 - FTF....
 <!----
-seanguerrero4343444/seanguerrero4343444 is a ✨ special ✨ repository because its `README.md` (this file) appears o
-
+seanguerrero4343444/seanguerrero4343444 is a ✨ special ✨ repository because its `README.md` (this file) appears 
 
 
